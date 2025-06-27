@@ -1,0 +1,139 @@
+[PREDICTION] Text: Win free recharge !... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: Hey Win free recharge !... | Label: spam | Confidence: 0.91
+[PREDICTION] Text: Win free iphone !!!... | Label: spam | Confidence: 0.8
+[PREDICTION] Text: Hi Hello !!!... | Label: not_spam | Confidence: 0.45
+[PREDICTION] Text: win free recharge  !!!... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: Ep... | Label: spam | Confidence: 0.61
+[PREDICTION] Text:  !... | Label: not_spam | Confidence: 0.5
+[PREDICTION] Text:  ❤️... | Label: not_spam | Confidence: 0.5
+[PREDICTION] Text: Are we still meeting at 5 PM near the library?... | Label: not_spam | Confidence: 0.52
+[PREDICTION] Text: Are we still meeting at 5 PM near the library?... | Label: not_spam | Confidence: 0.52
+[PREDICTION] Text: Shall we meet at 5pm... | Label: not_spam | Confidence: 0.28
+[PREDICTION] Text: Win free recharge... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[PREDICTION] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[PREDICTION] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.91
+[PREDICTION] Text: Win a free recharge now!... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: Win a free recharge now!... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: Win free recharge !... | Label: spam | Confidence: 0.95
+[PREDICTION] Text: Hi ... | Label: not_spam | Confidence: 0.33
+
+
+
+[2025-06-19 18:39:42] Text: Hey hellow 👀... | Label: not_spam | Confidence: 0.59
+[2025-06-19 18:44:15] Text: Hey Hi... | Label: not_spam | Confidence: 0.47
+[2025-06-19 19:39:54] Text: Shall we meet... | Label: not_spam | Confidence: 0.28
+[2025-06-19 14:22:03] Text:  Hey nice to meet you ... | Label: not_spam | Confidence: 0.33
+[2025-06-19 20:05:45] Text: Hey shall we go to lunch... | Label: not_spam | Confidence: 0.24
+[2025-06-20 17:52:56] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 17:56:36] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:02:18] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:02:58] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:03:37] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:03:55] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:13:06] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:13:22] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:13:49] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-20 18:27:03] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-20 18:27:05] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-20 18:27:07] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.91
+[2025-06-20 18:27:33] Text: Win a free recharge now!... | Label: spam | Confidence: 0.95
+[2025-06-20 18:27:41] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-21 21:06:17] Text: Win FREE IPHONE MAN ... | Label: spam | Confidence: 0.66
+[2025-06-21 21:44:21] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-21 21:45:03] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-21 21:45:05] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-21 21:45:07] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.91
+[2025-06-21 21:45:13] Text: Win a free recharge now!... | Label: spam | Confidence: 0.95
+[2025-06-21 21:45:15] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.65
+[2025-06-21 21:45:45] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-21 21:45:47] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-21 21:45:49] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.91
+[2025-06-21 21:46:06] Text: Win a free recharge now!... | Label: spam | Confidence: 0.95
+[2025-06-22 19:58:50] Text: Mil gaya cashback offer... | Label: not_spam | Confidence: 0.6
+[2025-06-22 19:59:07] Text:  cashback offer... | Label: spam | Confidence: 0.75
+[2025-06-22 19:59:18] Text: mil gaya cashback offer... | Label: not_spam | Confidence: 0.6
+[2025-06-22 19:59:26] Text: mila cashback offer... | Label: spam | Confidence: 0.68
+[2025-06-22 19:59:32] Text: mil cashback offer... | Label: spam | Confidence: 0.7
+[2025-06-22 19:59:42] Text: mil gaya cashback offer... | Label: not_spam | Confidence: 0.6
+[2025-06-22 20:06:29] Text: Mil gaya free cashback... | Label: not_spam | Confidence: 0.53
+[2025-06-22 20:11:51] Text: Mil gaya free cashback... | Label: not_spam | Confidence: 0.53
+[2025-06-22 20:12:55] Text: Mil gaya cashback offer ... | Label: spam | Confidence: 0.6
+[2025-06-22 20:13:30] Text: kyc verify karo warna block ho jaayega ... | Label: not_spam | Confidence: 0.26
+[2025-06-22 20:19:44] Text: kyc verify karo warna block ho jaayega... | Label: not_spam | Confidence: 0.26
+[2025-06-22 20:23:20] Text: kyc verify karo warna block ho jaayega... | Label: not_spam | Confidence: 0.57
+[2025-06-22 20:24:31] Text: kyc verify karo warna block ho jaayega... | Label: spam | Confidence: 0.57
+[2025-06-22 20:25:26] Text: kyc verify karo warna block ho jaayega... | Label: spam | Confidence: 0.57
+[2025-06-22 20:26:20] Text: kyc verify karo warna block ho jaayega... | Label: spam | Confidence: 0.57
+[2025-06-24 11:54:21] Text: Win free recharge ... | Label: spam | Confidence: 0.94
+[2025-06-24 12:18:20] Text: kyc verify ... | Label: not_spam | Confidence: 0.5
+[2025-06-24 12:19:47] Text: cashback offer ... | Label: spam | Confidence: 0.9
+[2025-06-24 12:20:12] Text: warna block... | Label: not_spam | Confidence: 0.34
+[2025-06-24 12:28:43] Text: kyc verify... | Label: spam | Confidence: 0.76
+[2025-06-24 12:30:01] Text: warna block... | Label: not_spam | Confidence: 0.44
+[2025-06-24 12:37:15] Text: free cashback... | Label: spam | Confidence: 0.86
+[2025-06-24 12:37:26] Text: kyc verify... | Label: spam | Confidence: 0.73
+[2025-06-24 12:37:47] Text: warna block... | Label: spam | Confidence: 0.66
+[2025-06-24 12:47:45] Text: KYC update kar do warna number deactivate ho jaaye... | Label: spam | Confidence: 0.64
+[2025-06-24 12:48:48] Text: Recharge ₹10 now and get ₹500 cashback! Valid only... | Label: spam | Confidence: 0.88
+[2025-06-24 12:49:04] Text: 🚨URGENT: Your UPI will be blocked. Verify now: upi... | Label: not_spam | Confidence: 0.46
+[2025-06-24 12:49:30] Text: Free data giveaway by Jio – click here now!... | Label: spam | Confidence: 0.91
+[2025-06-24 12:49:43] Text: 💰Mil gaya paisa! Claim ₹1000 cashback within 2 hou... | Label: spam | Confidence: 0.86
+[2025-06-24 12:49:58] Text: Your ATM card will be suspended soon. KYC pending... | Label: spam | Confidence: 0.83
+[2025-06-24 12:50:13] Text: KYC expiry alert: Click to re-verify & avoid SIM b... | Label: spam | Confidence: 0.84
+[2025-06-24 12:50:28] Text: Congratulations! You've been selected for ₹5000 re... | Label: not_spam | Confidence: 0.5
+[2025-06-24 12:50:48] Text: Click to claim your Flipkart voucher worth ₹999 no... | Label: spam | Confidence: 0.87
+[2025-06-24 12:51:00] Text: Abhi recharge karo, ₹100 ka instant cashback mileg... | Label: spam | Confidence: 0.75
+[2025-06-24 12:54:56] Text: 🚨URGENT: Your UPI will be blocked. Verify now: upi... | Label: spam | Confidence: 0.69
+[2025-06-24 12:55:11] Text: Congratulations! You've been selected for ₹5000 re... | Label: spam | Confidence: 0.72
+[2025-06-24 12:55:38] Text: Mil gaya Paytm cashback for last month ka offer 👍... | Label: spam | Confidence: 0.61
+[2025-06-24 12:55:55] Text: Recharge done for ₹299, check Jio validity tomorro... | Label: not_spam | Confidence: 0.56
+[2025-06-24 12:56:13] Text: Bhai kal KYC form submit kar diya, bank ne bola ho... | Label: not_spam | Confidence: 0.19
+[2025-06-24 07:34:01] Text: Hey Hello 👌... | Label: not_spam | Confidence: 0.56
+[2025-06-24 13:07:03] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-24 13:07:05] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-24 13:07:07] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-24 13:07:13] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-24 13:07:15] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-24 13:08:17] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-24 13:08:19] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-24 13:08:21] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-24 13:08:28] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-24 13:08:30] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-25 22:43:02] Text: Win free recharge....!🔥🔥🔥🔥... | Label: spam | Confidence: 0.93
+[2025-06-26 14:18:49] Text: Win free recharge...!🔥🔥🔥🔥... | Label: spam | Confidence: 0.93
+[2025-06-26 14:35:21] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-26 14:35:23] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-26 14:35:25] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-26 14:35:31] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-26 14:35:34] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-27 16:42:30] Text: Win free recharge ... | Label: spam | Confidence: 0.93
+[2025-06-27 11:17:12] Text: Hi HEllO... | Label: not_spam | Confidence: 0.42
+[2025-06-27 16:50:01] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-27 16:50:03] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-27 16:50:05] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-27 16:50:11] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-27 16:50:13] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-27 17:05:12] Text: Win free recharge ... | Label: spam | Confidence: 0.93
+[2025-06-27 17:22:27] Text: Win free recharge ... | Label: spam | Confidence: 0.93
+[2025-06-27 11:55:23] Text: Hi Hello... | Label: not_spam | Confidence: 0.42
+[2025-06-27 17:27:07] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-27 17:27:09] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-27 17:27:11] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-27 17:27:17] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-27 17:27:19] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-27 20:14:46] Text: Hey Hello... | Label: not_spam | Confidence: 0.56
+[2025-06-27 20:23:34] Text: Win cashback... | Label: spam | Confidence: 0.74
+[2025-06-27 14:56:08] Text: Hello... | Label: not_spam | Confidence: 0.56
+[2025-06-27 20:27:58] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-27 20:28:00] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-27 20:28:02] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-27 20:28:08] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-27 20:28:11] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-06-27 21:16:07] Text: Free recharge... | Label: spam | Confidence: 0.89
+[2025-06-27 15:47:46] Text: Hiii... | Label: not_spam | Confidence: 0.5
+[2025-06-27 21:18:36] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-06-27 21:18:38] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-06-27 21:18:40] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-06-27 21:18:46] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-06-27 21:18:48] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
