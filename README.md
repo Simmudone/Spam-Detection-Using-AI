@@ -41,8 +41,6 @@ spam-detector/
 │   ├── test_edge_cases.py
 │   └── test_validation.py
 ├── README.md                 # This file
-├── report.pdf                # Technical documentation
-└── demo.mp4                  # Final screen demo
 ```
 
 ---
