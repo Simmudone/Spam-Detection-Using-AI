@@ -197,5 +197,4 @@ These tests check:
 ## 👨‍💻 Author & Submission
 
 **Intern:** Simhadri Done  
-**Internship:** Turtil.ai, Summer 2025  
-**Mentor:** Raj Shanmugam
+**Internship:** Turtil 2025  
