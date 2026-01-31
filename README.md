@@ -194,7 +194,7 @@ These tests check:
 
 ---
 
-## 👨‍💻 Author & Submission
+## 👨‍💻 Submission
 
 **Intern:** Simhadri Done  
 **Internship:** Turtil 2025  
