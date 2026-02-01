@@ -41,8 +41,6 @@ spam-detector/
 │   ├── test_edge_cases.py
 │   └── test_validation.py
 ├── README.md                 # This file
-├── report.pdf                # Technical documentation
-└── demo.mp4                  # Final screen demo
 ```
 
 ---
@@ -196,7 +194,7 @@ These tests check:
 ## Demo Link :https://drive.google.com/file/d/1LWb70moPd83_4bXbd0INU9Juwiix--12/view?usp=drive_link
 ---
 
-## 👨‍💻 Author & Submission
+## 👨‍💻 Submission
 
 **Intern:** Simhadri Done  
 **Internship:** Turtil 2025  
