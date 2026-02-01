@@ -144,3 +144,39 @@
 [2025-07-14 12:44:42] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
 [2025-07-14 12:44:48] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
 [2025-07-14 12:44:50] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-07-31 16:29:28] Text: Win free recharge... | Label: spam | Confidence: 0.93
+[2025-07-31 16:29:31] Text: Win free recharge... | Label: spam | Confidence: 0.93
+[2025-07-31 16:30:39] Text: Win free recharge... | Label: spam | Confidence: 0.93
+[2025-09-26 19:04:34] Text: WIN FREE RECHARGE... | Label: spam | Confidence: 0.93
+[2025-09-26 19:05:46] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-09-26 19:05:48] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-09-26 19:05:50] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-09-26 19:05:57] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-09-26 19:05:59] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-09-26 21:25:26] Text: Win free recharge... | Label: spam | Confidence: 0.93
+[2025-09-26 21:30:43] Text: Win freeeeeeeeee recharge... | Label: spam | Confidence: 0.9
+[2025-09-26 21:31:35] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-09-26 21:31:37] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-09-26 21:31:39] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-09-26 21:31:46] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-09-26 21:31:48] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-09-26 21:32:51] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-09-26 21:32:53] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-09-26 21:32:55] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-09-26 21:33:01] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-09-26 21:33:03] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-09-26 22:38:16] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-09-26 22:38:18] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-09-26 22:38:20] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-09-26 22:38:26] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-09-26 22:38:28] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-09-27 10:22:49] Text: Win free recharge.......... | Label: spam | Confidence: 0.93
+[2025-09-27 10:23:01] Text: Hi Hello... | Label: not_spam | Confidence: 0.42
+[2025-09-27 10:24:39] Text: 🔥🔥🔥😂😂... | Label: not_spam | Confidence: 0.5
+[2025-09-27 10:24:41] Text: 1234567890... | Label: not_spam | Confidence: 0.5
+[2025-09-27 10:24:43] Text: win free win free win free win free win free win f... | Label: spam | Confidence: 0.9
+[2025-09-27 10:24:49] Text: Win a free recharge now!... | Label: spam | Confidence: 0.93
+[2025-09-27 10:24:51] Text: Win ₹1000 cashback by clicking this link!... | Label: spam | Confidence: 0.73
+[2025-09-27 11:03:08] Text: Win free recharge... | Label: spam | Confidence: 0.93
+[2025-09-27 11:03:58] Text: Hi Hello... | Label: not_spam | Confidence: 0.42
+[2025-09-27 11:07:27] Text: Click here to get free iphone... | Label: spam | Confidence: 0.91

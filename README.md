@@ -112,7 +112,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🐳 Docker Instructions
+<!-- ## 🐳 Docker Instructions
 
 ### Build the image:
 
@@ -132,7 +132,7 @@ docker run -p 8000:8000 spam-detector
 docker run -p 8000:8000 -v ${PWD}/logs.txt:/app/logs.txt spam-detector
 ```
 
----
+--- -->
 
 ## ✅ Run All Tests 
 
@@ -199,5 +199,4 @@ These tests check:
 ## 👨‍💻 Author & Submission
 
 **Intern:** Simhadri Done  
-**Internship:** Turtil.ai, Summer 2025  
-**Mentor:** Raj Shanmugam
+**Internship:** Turtil 2025  
